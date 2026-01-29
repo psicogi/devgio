@@ -1,0 +1,14 @@
+.header {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 20px;
+    margin: auto;
+}
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
